@@ -1,0 +1,23 @@
+#body{
+    text-align: center;
+}
+
+
+.image{
+    height: 1000px;
+    width: 10000px;
+}
+
+.announments{
+    background-color: cornflowerblue;
+    color: whitesmoke;
+}
+
+#contacts iframe{
+    width: 100%;
+    text-align: center;
+}
+
+.a{
+    text-align: center;
+}
